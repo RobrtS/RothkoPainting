@@ -5,6 +5,6 @@ It's a project, that I used **CSS3** and **HTML5** to learn about **box model**,
 
 I try reacreate a painting of *<a href="https://pt.wikipedia.org/wiki/Mark_Rothko" target="_blank">Mark Rothko</a>* used **HTML** and **CSS**
 
-You can see the project here <a href="https://codepen.io/RobertSilva/pen/OJvLdaP">**here**</a> 
+You can see the project<a href="https://codepen.io/RobertSilva/pen/OJvLdaP">**here**</a> 
  
   
