@@ -5,6 +5,8 @@
     height:600px;
 
     background-color: #4d0f00;
+
+    filter: blur(1px);
 }
 .frame{
     border: 50px solid black;
@@ -24,9 +26,13 @@
     width: 475px ;
     height: 200px;
 }
+.one,.two{
+    filter: blur(1px);
+}
 .three{
     background-color: #b20403;
     margin: auto;
     width:91%;
     height: 28%;
+    filter:blur(2px)
 }
