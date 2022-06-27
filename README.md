@@ -1,4 +1,4 @@
-# Cafe Menu
+# Rothko Painting 
 A project from <a href="https://freecodecamp.org">freecodecamp.org</a> , referring to the course "***Responsive Web Design***", the  course I took was <em> "***learn the CSS Box Model by building a Rothko Painting***".<em>
 
 It's a project, that I used **CSS3** and **HTML5** to learn about **box model**, **spacing**, **border**, **padding** and others elements
