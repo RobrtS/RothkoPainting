@@ -12,3 +12,21 @@
     padding: 50px;
     margin:20px auto;
 }
+.one{
+    background-color:#efb762;
+    margin:20px auto;
+    width:425px;
+    height:150px;
+}
+.two{
+    background-color:#8f0401;
+    margin: auto;
+    width: 475px ;
+    height: 200px;
+}
+.three{
+    background-color: #b20403;
+    margin: auto;
+    width:91%;
+    height: 28%;
+}
